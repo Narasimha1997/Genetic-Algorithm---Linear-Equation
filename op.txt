@@ -1,0 +1,12 @@
+Some members who were optimal are : 
+Member [ 207  178  422  377 1008]Fitness Score : 8.0
+Member [ 250  234  422  348 1008]Fitness Score : 8.0
+Member [ 207  173  422  354 1008]Fitness Score : 8.0
+Member [ 207  182  428  412 1008]Fitness Score : 8.0
+Member [ 207  182  428  412 1008]Fitness Score : 8.0
+Member [ 207  234  422  348 1008]Fitness Score : 8.0
+Member [ 229  207  480  412 1008]Fitness Score : 8.0
+Member [ 250  178  460  377 1044]Fitness Score : 44.0
+Member [ 253  244  422  399 1008]Fitness Score : 8.0
+Member [ 283  193  434  412 1050]Fitness Score : 50.0
+Error factor : (+ or - error will give the solution)  8.0
