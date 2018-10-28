@@ -91,7 +91,7 @@ class Population :
     
     def crossover_policy(self, dad, mom) :
 
-        #2/3 of dad and 1/3 of mom : 
+        #Simple crossover scheme, use your own techniques for optimization: 
         child_genes = []
         for i in range(len(dad.genes)) :
             gene = None
