@@ -1,7 +1,7 @@
 import numpy
 import random
 
-#find the sum of 4 weights w1, w2, w3, w4 such that w1 + w2 + w3 + w4 = N, N = some number (Integer)
+#find the sum of 5 weights w1, w2, w3, w4 , w5 such that x1w1 + x2w2 + x3w3 + x4w4 + x5w5 = N, N = some number (Integer)
 
 MUTATION_PROBABILITY = 0.4 # initial value
 
